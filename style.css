@@ -311,10 +311,10 @@ header .navbar ul li a:hover{
 }
 
 .activity .box-container .box{
-    height: 20rem;
-    width:26rem;
+    height: 30rem;
+    width: 70rem;
     border-radius: 1rem;
-    margin:2rem;
+    margin: 2rem;
     overflow: hidden;
     cursor: pointer;
 }
